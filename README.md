@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 LB Music 」──
+    ──「 𝙍𝙊𝙔𝘼𝙇 𝙈𝙐𝙎𝙄𝘾 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/3a33236b4432060c49161.jpg">
+  <img src="https://graph.org/file/4c2690ce34477d4d99705.jpg">
 </p>
 
 <h3 align="center">
