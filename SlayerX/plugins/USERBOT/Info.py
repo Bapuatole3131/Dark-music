@@ -75,8 +75,8 @@ async def get_userinfo_img(
 
 # --------------------------------------------------------------------------------- #
 
-bg_path = "SlayerX/assets/userdil.png"
-font_path = "SlayerX/assets/userdil.ttf"
+bg_path = "SlayerX/assets/userinfo.png"
+font_path = "SlayerX/assets/hiroko.ttf"
 
 # --------------------------------------------------------------------------------- #
 
